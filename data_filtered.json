@@ -1,0 +1,68 @@
+[
+  {
+    "id": "1",
+    "nama_lengkap": "Bagas",
+    "nik": "1234567900",
+    "foto": "1765515380_1b8a2fe91a877d957da9.jpg"
+  },
+  {
+    "id": "2",
+    "nama_lengkap": "Ir. Hendra Gunawan, M.Pd",
+    "nik": "1371010101750001",
+    "foto": "1765638624_96dc7942d5626e2eae97.jpg"
+  },
+  {
+    "id": "3",
+    "nama_lengkap": "Drs. Syafri Yanto",
+    "nik": "1371010201780002",
+    "foto": "1765638563_e10a5536ace6ec33acd7.jpg"
+  },
+  {
+    "id": "4",
+    "nama_lengkap": "Rina Susanti, S.Pd",
+    "nik": "1371010301820003",
+    "foto": "1765638667_d73948e5b7a7998bb243.jpg"
+  },
+  {
+    "id": "5",
+    "nama_lengkap": "Ahmad Fauzi",
+    "nik": "1371010401800004",
+    "foto": "1765638423_93a1cd96ee0ca9bad829.jpg"
+  },
+  {
+    "id": "6",
+    "nama_lengkap": "Dewi Kartika, S.Or",
+    "nik": "1371010501850005",
+    "foto": "1765638484_148cee0a35ff861d94b3.jpg"
+  },
+  {
+    "id": "7",
+    "nama_lengkap": "Budi Setiawan",
+    "nik": "1371010601880006",
+    "foto": "1765638473_240e89d23f10f8e40905.jpg"
+  },
+  {
+    "id": "8",
+    "nama_lengkap": "Fitri Handayani",
+    "nik": "1371010701900007",
+    "foto": "1765638609_67333d22dcf05bea4c95.jpg"
+  },
+  {
+    "id": "9",
+    "nama_lengkap": "Riko Pratama",
+    "nik": "1371010801920008",
+    "foto": "1765638657_3532d720f9cebccd8b73.jpg"
+  },
+  {
+    "id": "11",
+    "nama_lengkap": "Isnardi",
+    "nik": null,
+    "foto": "1765678224_72469c4eb045dab8885f.jpg"
+  },
+  {
+    "id": "12",
+    "nama_lengkap": "Bagas",
+    "nik": null,
+    "foto": "1765680219_4cbfb04f7cbf27b0466e.jpg"
+  }
+]
